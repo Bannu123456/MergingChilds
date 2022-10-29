@@ -1,2 +1,0 @@
-# MergingChilds
-Testing Merging command
